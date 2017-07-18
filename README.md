@@ -31,6 +31,8 @@ For ESC 2017, each region has different team sponsorship and prize policies, and
 
 To be able to qualify to the final round, each team must register for the correct region, corresponding to the country of the universities of its members. 
 
+Participation in CSAW Finals is contingent upon competitors' ability to enter the given country where CSAW is being hosted.
+
 Competition Deadlines
 ---------------------
 
