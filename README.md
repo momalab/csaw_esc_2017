@@ -1,4 +1,4 @@
-#Submission deadline is extended to September 25, 2017
+## ESC 2017 finalists are announced [here](esc2017_finalists.md)
 
 CSAW 2017 Embedded Security Challenge (ESC)
 ===========================================
@@ -37,7 +37,7 @@ Participation in CSAW Finals is contingent upon competitors' ability to enter th
 Competition Deadlines
 ---------------------
 
-To participate in the competition, each team needs to register with the HotCRP registration system by ~~September 18, 2017~~ **(Extended) September 25, 2017**. In addition, each team member should also complete the supplementary CSAW 2017 questionnaire by this deadline. Registered teams should submit their qualification reports and developed computer files using the HotCRP system by ~~September 18, 2017~~ **(Extended) September 25, 2017**. The teams that qualified to the final phase will be announced on this repository by **October 2, 2017**. The qualified teams should submit their final reports and associated computer files using the HotCRP system by **November 3, 2017 5pm EDT (UTC-4)**.
+To participate in the competition, each team needs to register with the HotCRP registration system by ~~September 18, 2017~~ **(Extended) September 25, 2017**. In addition, each team member should also complete the supplementary CSAW 2017 questionnaire by this deadline. Registered teams should submit their qualification reports and developed computer files using the HotCRP system by ~~September 18, 2017~~ **(Extended) September 25, 2017**. The teams that qualified to the final phase will be announced on this repository by **October 3, 2017**. The qualified teams should submit their final reports and associated computer files using the HotCRP system by **November 3, 2017 5pm EDT (UTC-4)**.
 
 ESC Competition Sponsors
 ------------------------
