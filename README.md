@@ -1,3 +1,5 @@
+## ESC 2017 final grades are announced [here](esc2017_ranking.md)
+
 ## ESC 2017 finalists are announced [here](esc2017_finalists.md)
 
 CSAW 2017 Embedded Security Challenge (ESC)
